@@ -33,5 +33,5 @@ My name is shn.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShnHz&layout=compact&langs_count=8&bg_color=F7F8FA&text_color=4E5969" />
 </p>
  
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ShnHz&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true" align="center" />
+<!-- <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShnHz&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true" align="center" /> -->
